@@ -1,3 +1,2 @@
 # UltraPoser
-Code for UltraPoser
-Coming soon
+Code for UltraPoser (Coming soon)
