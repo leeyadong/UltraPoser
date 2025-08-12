@@ -6,5 +6,5 @@ Authors: [Yadong Li*](https://yadongli.com/), Shuning Wang*, [Yongjian Fu](https
 Affiliation: UW, CSU, UCSD, THU, UMich
   
 <div align=center>
-    <img src="https://github.com/leeyadong/IFNet/blob/f9cfb7666bbdcf027150f05866e8c71b869427aa/figures/method_tmc.jpg" alt="method" width="900" />
+    <img src="https://github.com/leeyadong/UltraPoser/blob/f2cf77644b1e1009a5fb2e66e659ad2e4de4e97c/ultraposer.png" alt="method" width="900" />
 </div>
